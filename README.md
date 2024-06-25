@@ -1,0 +1,2 @@
+# Deep-Learning-and-Machine-Learning-Procedures-for-Classifying-Brain-Tumors---A-Comparative-Analysis
+This repository investigates brain tumor classification using MRI data. It compares deep learning models (CNN, ResNet) with machine learning algorithms (GBM, RF, KNN, LR, SVM). The study shows deep learning models outperforming traditional methods, highlighting their potential in enhancing diagnosis accuracy and patient care.
